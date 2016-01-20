@@ -1,2 +1,6 @@
 # puppet-wok
-Puppet module for deploying Wok from the Kimichi project.
+Puppet module for deploying WoK[1] from the Kimichi project.
+
+
+[1] https://github.com/kimchi-project/wok
+
